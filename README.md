@@ -7,7 +7,7 @@ AttenRNA is a model designed for RNA classification, leveraging multiscale k-mer
 
 ## Requirements
 -GPU
-## installation environment
+## Installation environment
 ```shell
 virtualenv venv
 source ./venv/bin/activate
