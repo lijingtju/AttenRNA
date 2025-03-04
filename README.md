@@ -1,9 +1,8 @@
 # AttenRNA
-![image](https://github.com/lijingtju/AttenRNA/blob/main/flowchart.png)
 
 AttenRNA is a model designed for RNA classification, leveraging multiscale k-mer embedding and attention mechanisms to distinguish circRNAs, lncRNAs, and mRNAs with high accuracy across species. This repository contains models, training code, and prediction code for AttenRNA, enabling users to classify RNA sequences and explore key sequence features.
 
-![architecture](./architecture.jpg "architecture")
+![image](https://github.com/lijingtju/AttenRNA/blob/main/flowchart.png)
 
 ## Requirements
 -GPU
