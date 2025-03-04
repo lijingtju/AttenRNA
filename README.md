@@ -19,5 +19,5 @@ pip install -r requirements.txt
 python AttenRNA_prediction.py --data test.csv --log_dir ./logs --batch 32 --resume ./human_model.pt
 ```
 
-You can get the predict score from ./log forder.
+You can get the predict score from ```./log``` forder.
 
